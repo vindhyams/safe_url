@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+.info{
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.paste{
+    align-items: center;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+input{
+    width: 500px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+.result{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+   
+}
+button{
+    border-radius: 4px;
+    width: 80px;
+    height: 35px;
+    border-style: none;
+    background-color: rgb(236, 193, 122);
+}
+button :hover{
+    background-color: peru;
+}
+body{
+   
+   background: linear-gradient(to bottom ,rgb(255, 255, 255),rgb(233, 222, 245));
+   height: 100vh;
+   align-items: center;
+   
+}
+.hidden{
+    display: none;
+
+}
